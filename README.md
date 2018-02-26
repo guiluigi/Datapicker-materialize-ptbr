@@ -1,4 +1,4 @@
-# TRADUIÇÃO PARA O DATAPICKER DO [materialize css](http://materializecss.com)
+# TRADUIÇÃO PARA O DATAPICKER DO [materialize css](http://materializecss.com/forms.html#date-picker)
 
 ## ATENÇÃO: Esse codigo deve ser inserido diretamente no arquivo base de javascript do materialize, preste atenção com _virgulas_, espaços e codigos substituidos no processo, FAÇA UM BACKUP SE NÃO TEM CERTEZA
 
